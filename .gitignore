@@ -1,4 +1,4 @@
 addin_assistant/
 .git/
 *.png
-*.link
+addin_assistant.*
