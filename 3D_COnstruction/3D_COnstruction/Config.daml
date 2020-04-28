@@ -1,0 +1,37 @@
+﻿<ArcGIS defaultAssembly="3D_COnstruction.dll" defaultNamespace="_3D_COnstruction" xmlns="http://schemas.esri.com/DADF/Registry" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schemas.esri.com/DADF/Registry file:///C:/Program%20Files/ArcGIS/Pro/bin/ArcGIS.Desktop.Framework.xsd">
+  <AddInInfo id="{b744e698-0e63-490f-abb3-b02e9125bd04}" version="1.0" desktopVersion="2.5.22081">
+    <Name>_3D_COnstruction</Name>
+    <Description>_3D_COnstruction description</Description>
+    <Image>Images\AddinDesktop32.png</Image>
+    <Author>70664</Author>
+    <Company>Acme</Company>
+    <Date>4/28/2020 8:58:32 AM, 2020</Date>
+    <Subject>Framework</Subject>
+    <!-- Note subject can be one or more of these topics:
+                    Content, Framework, Editing, Geodatabase, Geometry, Geoprocessing, Layouts, Map Authoring, Map Exploration -->
+  </AddInInfo>
+  <modules>
+    <insertModule id="_3D_COnstruction_Module" className="Module1" autoLoad="false" caption="Module1">
+      <!-- uncomment to have the control hosted on a separate tab-->
+      <tabs>
+        <!--<tab id="_3D_COnstruction_Tab1" caption="New Tab">
+          <group refID="_3D_COnstruction_Group1"/>
+        </tab>-->
+      </tabs>
+      <groups>
+        <!-- comment this out if you have no controls on the Addin tab to avoid
+              an empty group-->
+        <group id="_3D_COnstruction_Group1" caption="3D construction" appearsOnAddInTab="true">
+          <!-- host controls within groups -->
+          <comboBox refID="_3D_COnstruction__3Dpre_cb" />
+        </group>
+      </groups>
+      <controls>
+        <!-- add your controls here -->
+        <comboBox id="_3D_COnstruction__3Dpre_cb" caption="Output" className="_3Dpre_cb" itemWidth="140" extendedCaption="Extended Caption" isEditable="false" isReadOnly="true" resizable="true">
+          <tooltip heading="Tooltip Heading">Tooltip text<disabledText /></tooltip>
+        </comboBox>
+      </controls>
+    </insertModule>
+  </modules>
+</ArcGIS>

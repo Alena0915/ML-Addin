@@ -1,0 +1,6 @@
+D:\GitHub\ML-Addin\3D_COnstruction\3D_COnstruction\bin\Debug\3D_COnstruction.dll
+D:\GitHub\ML-Addin\3D_COnstruction\3D_COnstruction\bin\Debug\3D_COnstruction.pdb
+D:\GitHub\ML-Addin\3D_COnstruction\3D_COnstruction\obj\Debug\3D_COnstruction.csproj.CoreCompileInputs.cache
+D:\GitHub\ML-Addin\3D_COnstruction\3D_COnstruction\obj\Debug\3D_COnstruction.dll
+D:\GitHub\ML-Addin\3D_COnstruction\3D_COnstruction\obj\Debug\3D_COnstruction.pdb
+D:\GitHub\ML-Addin\3D_COnstruction\3D_COnstruction\obj\Debug\3D_COnstruction.csprojAssemblyReference.cache

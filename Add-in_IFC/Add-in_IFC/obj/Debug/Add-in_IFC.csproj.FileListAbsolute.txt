@@ -1,0 +1,10 @@
+D:\GitHub\ML-Addin\Add-in_IFC\Add-in_IFC\bin\Debug\Add-in_IFC.dll
+D:\GitHub\ML-Addin\Add-in_IFC\Add-in_IFC\bin\Debug\Add-in_IFC.pdb
+D:\GitHub\ML-Addin\Add-in_IFC\Add-in_IFC\obj\Debug\Add-in_IFC.csprojAssemblyReference.cache
+D:\GitHub\ML-Addin\Add-in_IFC\Add-in_IFC\obj\Debug\ProWindow1.baml
+D:\GitHub\ML-Addin\Add-in_IFC\Add-in_IFC\obj\Debug\ProWindow1.g.cs
+D:\GitHub\ML-Addin\Add-in_IFC\Add-in_IFC\obj\Debug\Add-in_IFC_MarkupCompile.cache
+D:\GitHub\ML-Addin\Add-in_IFC\Add-in_IFC\obj\Debug\Add-in_IFC.g.resources
+D:\GitHub\ML-Addin\Add-in_IFC\Add-in_IFC\obj\Debug\Add-in_IFC.csproj.CoreCompileInputs.cache
+D:\GitHub\ML-Addin\Add-in_IFC\Add-in_IFC\obj\Debug\Add-in_IFC.dll
+D:\GitHub\ML-Addin\Add-in_IFC\Add-in_IFC\obj\Debug\Add-in_IFC.pdb

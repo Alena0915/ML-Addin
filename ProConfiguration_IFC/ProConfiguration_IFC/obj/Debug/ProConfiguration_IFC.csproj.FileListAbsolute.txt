@@ -1,0 +1,16 @@
+D:\GitHub\ML-Addin\ProConfiguration_IFC\ProConfiguration_IFC\bin\Debug\ProConfiguration_IFC.dll
+D:\GitHub\ML-Addin\ProConfiguration_IFC\ProConfiguration_IFC\bin\Debug\ProConfiguration_IFC.pdb
+D:\GitHub\ML-Addin\ProConfiguration_IFC\ProConfiguration_IFC\obj\Debug\UI\SplashScreen.g.cs
+D:\GitHub\ML-Addin\ProConfiguration_IFC\ProConfiguration_IFC\obj\Debug\UI\AboutPage.g.cs
+D:\GitHub\ML-Addin\ProConfiguration_IFC\ProConfiguration_IFC\obj\Debug\UI\StartPage.g.cs
+D:\GitHub\ML-Addin\ProConfiguration_IFC\ProConfiguration_IFC\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\GitHub\ML-Addin\ProConfiguration_IFC\ProConfiguration_IFC\obj\Debug\ProConfiguration_IFC_MarkupCompile.cache
+D:\GitHub\ML-Addin\ProConfiguration_IFC\ProConfiguration_IFC\obj\Debug\ProConfiguration_IFC_MarkupCompile.lref
+D:\GitHub\ML-Addin\ProConfiguration_IFC\ProConfiguration_IFC\obj\Debug\UI\SplashScreen.baml
+D:\GitHub\ML-Addin\ProConfiguration_IFC\ProConfiguration_IFC\obj\Debug\UI\AboutPage.baml
+D:\GitHub\ML-Addin\ProConfiguration_IFC\ProConfiguration_IFC\obj\Debug\UI\StartPage.baml
+D:\GitHub\ML-Addin\ProConfiguration_IFC\ProConfiguration_IFC\obj\Debug\ProConfiguration_IFC.g.resources
+D:\GitHub\ML-Addin\ProConfiguration_IFC\ProConfiguration_IFC\obj\Debug\ProConfiguration_IFC.csproj.CoreCompileInputs.cache
+D:\GitHub\ML-Addin\ProConfiguration_IFC\ProConfiguration_IFC\obj\Debug\ProConfiguration_IFC.dll
+D:\GitHub\ML-Addin\ProConfiguration_IFC\ProConfiguration_IFC\obj\Debug\ProConfiguration_IFC.pdb
+D:\GitHub\ML-Addin\ProConfiguration_IFC\ProConfiguration_IFC\obj\Debug\ProConfiguration_IFC.csprojAssemblyReference.cache

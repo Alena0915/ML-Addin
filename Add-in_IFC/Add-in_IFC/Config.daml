@@ -1,0 +1,42 @@
+﻿<ArcGIS defaultAssembly="Add-in_IFC.dll" defaultNamespace="Add_in_IFC" xmlns="http://schemas.esri.com/DADF/Registry" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schemas.esri.com/DADF/Registry file:///C:/Program%20Files/ArcGIS/Pro/bin/ArcGIS.Desktop.Framework.xsd">
+  <AddInInfo id="{cf8503b7-cb66-4a25-b319-dc794d4a5ccd}" version="1.0" desktopVersion="2.5.22081">
+    <Name>Add_in_IFC</Name>
+    <Description>Add_in_IFC description</Description>
+    <Image>Images\AddinDesktop32.png</Image>
+    <Author>70664</Author>
+    <Company>Acme</Company>
+    <Date>4/28/2020 9:16:41 AM, 2020</Date>
+    <Subject>Framework</Subject>
+    <!-- Note subject can be one or more of these topics:
+                    Content, Framework, Editing, Geodatabase, Geometry, Geoprocessing, Layouts, Map Authoring, Map Exploration -->
+  </AddInInfo>
+  <modules>
+    <insertModule id="Add_in_IFC_Module" className="Module1" autoLoad="false" caption="Module1">
+      <!-- uncomment to have the control hosted on a separate tab-->
+      <tabs>
+        <!--<tab id="Add_in_IFC_Tab1" caption="New Tab">
+          <group refID="Add_in_IFC_Group1"/>
+        </tab>-->
+      </tabs>
+      <groups>
+        <!-- comment this out if you have no controls on the Addin tab to avoid
+              an empty group-->
+        <group id="Add_in_IFC_Group1" caption="Indoor Feature Classification" appearsOnAddInTab="true">
+          <!-- host controls within groups -->
+          <button refID="Add_in_IFC_ProWindow1" size="large" />
+        </group>
+      </groups>
+      <controls>
+        <!-- add your controls here -->
+        <button id="Add_in_IFC_ProWindow1"  className="ShowProWindow1" loadOnClick="true" smallImage="pack://application:,,,/ArcGIS.Desktop.Resources;component/Images/GenericButtonPurple16.png" largeImage="pack://application:,,,/ArcGIS.Desktop.Resources;component/Images/GenericButtonPurple32.png">
+          <tooltip heading="Tooltip Heading">Tooltip text<disabledText /></tooltip>
+        </button>
+        <button id="Add_in_IFC_ProWindow2"  className="ShowProWindow1" loadOnClick="true" smallImage="pack://application:,,,/ArcGIS.Desktop.Resources;component/Images/GenericButtonPurple16.png" largeImage="pack://application:,,,/ArcGIS.Desktop.Resources;component/Images/GenericButtonPurple32.png">
+          <tooltip heading="Tooltip Heading">
+            Tooltip text<disabledText />
+          </tooltip>
+        </button>
+      </controls>
+    </insertModule>
+  </modules>
+</ArcGIS>
