@@ -44,7 +44,7 @@ namespace ProConfiguration_IFC
         {
             get
             {
-                return new BitmapImage(new Uri(@"pack://application:,,,/ProConfiguration_IFC;component/Images/favicon.ico"));
+                return new BitmapImage(new Uri(@"pack://application:,,,/ProConfiguration_IFC;component/Images/tud.ico"));
             }
         }
 
